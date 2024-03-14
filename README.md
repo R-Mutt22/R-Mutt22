@@ -9,9 +9,6 @@
 <h3>Do you want to contact me? 🤝🏻</h3>
 
 [![Linkedin: matiaszelarayan22](https://img.shields.io/badge/-matiaszelarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
-[![GitHub matiaszelarayan]()](https://github.com/R-Mutt22)
-
-
 
 
 ### A little more about me...  
