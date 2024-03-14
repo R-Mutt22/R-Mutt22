@@ -23,11 +23,9 @@ const thai = {
 }
 ```
 <em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em>
-
----
 📫 How to reach me </br>
 <a href = "mailto:matiaszelarayan87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+---
 ⭐️⭐️⭐️ From [@R-Mutt22](https://github.com/R-Mutt22)
 
 <!--
