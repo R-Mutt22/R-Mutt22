@@ -1,4 +1,33 @@
-### Hi there 👋
+### Hi there 
+<div align="center">
+  <h1>Hi, I'm Matías, nickname R Mutt. 👋🏻</h1><br>
+  <h2>Programmer, born in 🇦🇷, I am currently perfecting myself as a Full Stack Java Developer ☕ with Spring Boot 🍃</h2>
+  </div>
+
+<p><em>Software technician at <a href="https://unnoba.edu.ar/">UNNOBA</a></br>Freelance developer consultant </em></p>
+
+<h3>¿Querés contactarme? 🤝🏻</h3>
+[![Linkedin: Matías Zelarayán](https://img.shields.io/badge/-Matías Zelarayán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
+[![GitHub Matías Zelarayán](https://img.shields.io/github/followers/Matías Zelarayán?label=follow&style=social)](https://github.com/R-Mutt22)
+
+
+### A little more about me...  
+
+```javascript
+const thai = {
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [Angular, NodeJs, Postman, Git - Github, Docker],
+  architecture: ["microservices"],
+
+ challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react and typing"
+}
+```
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+📫 How to reach me: <a href = "mailto:matiaszelarayan87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+⭐️⭐️⭐️ From [@R-Mutt22](https://github.com/R-Mutt22)
 
 <!--
 **R-Mutt22/R-Mutt22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
