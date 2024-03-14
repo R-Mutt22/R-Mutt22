@@ -22,7 +22,7 @@ const thai = {
  challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react and typing"
 }
 ```
-<em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em>
+<em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
 📫 How to reach me </br>
 <a href = "mailto:matiaszelarayan87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ---
