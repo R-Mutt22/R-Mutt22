@@ -7,7 +7,7 @@
 <p><em>Software technician at <a href="https://unnoba.edu.ar/">UNNOBA</a></br>Freelance developer consultant </em></p>
 
 <h3>Do you want to contact me? 🤝🏻</h3>
-[![Linkedin: MatíasZelarayán](https://img.shields.io/badge/-MatíasZelarayán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
+[![Linkedin: matiaszelarayan22](https://img.shields.io/badge/-matiaszelarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
 [![GitHub MatíasZelarayán](https://img.shields.io/github/followers/MatíasZelarayán?label=follow&style=social)](https://github.com/R-Mutt22)
 
 
