@@ -6,9 +6,9 @@
 
 <p><em>Software technician at <a href="https://unnoba.edu.ar/">UNNOBA</a></br>Freelance developer consultant </em></p>
 
-<h3>¿Querés contactarme? 🤝🏻</h3>
-[![Linkedin: Matías Zelarayán](https://img.shields.io/badge/-Matías Zelarayán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
-[![GitHub Matías Zelarayán](https://img.shields.io/github/followers/Matías Zelarayán?label=follow&style=social)](https://github.com/R-Mutt22)
+<h3>Do you want to contact me? 🤝🏻</h3>
+[![Linkedin: MatíasZelarayán](https://img.shields.io/badge/-MatíasZelarayán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
+[![GitHub MatíasZelarayán](https://img.shields.io/github/followers/MatíasZelarayán?label=follow&style=social)](https://github.com/R-Mutt22)
 
 
 ### A little more about me...  
@@ -25,7 +25,8 @@ const thai = {
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-📫 How to reach me: <a href = "mailto:matiaszelarayan87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+📫 How to reach me 
+<a href = "mailto:matiaszelarayan87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 ⭐️⭐️⭐️ From [@R-Mutt22](https://github.com/R-Mutt22)
 
