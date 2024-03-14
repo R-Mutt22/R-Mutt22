@@ -9,7 +9,7 @@
 <h3>Do you want to contact me? 🤝🏻</h3>
 
 [![Linkedin: matiaszelarayan22](https://img.shields.io/badge/-matiaszelarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
-[![GitHub matiaszelarayan](https://img.shields.io/github/followers/MatíasZelarayán?label=follow&style=social)](https://github.com/R-Mutt22)
+[![GitHub matiaszelarayan]()](https://github.com/R-Mutt22)
 
 
 
@@ -25,7 +25,7 @@ const thai = {
  challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react and typing"
 }
 ```
-<em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b> :)</em>
+<em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em>
 
 ---
 📫 How to reach me </br>
