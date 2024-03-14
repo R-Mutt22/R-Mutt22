@@ -7,9 +7,9 @@
 <p><em>Software technician at <a href="https://unnoba.edu.ar/">UNNOBA</a></br>Freelance developer consultant </em></p>
 
 <h3>Do you want to contact me? 🤝🏻</h3>
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+[![Linkedin: matiaszelarayan22](https://img.shields.io/badge/-matiaszelarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaszelarayan22/)](https://www.linkedin.com/in/matiaszelarayan22/)
+[![GitHub matiaszelarayan](https://img.shields.io/github/followers/MatíasZelarayán?label=follow&style=social)](https://github.com/R-Mutt22)
 
 
 
