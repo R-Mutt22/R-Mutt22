@@ -22,7 +22,7 @@ const thai = {
  challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react and typing"
 }
 ```
-<em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
+<em><b>I like connecting with different people</b> so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
 
 <h3> 📫 Connect with Me </h3>
 
