@@ -23,13 +23,10 @@ const thai = {
 }
 ```
 <em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
-📫 How to reach me </br>
-<a href = "mailto:matiaszelarayan87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 📫 Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-matiaszelarayan.web.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.portfolio-matiaszelarayan.web.app-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/matiaszelarayan22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@matiaszelarayan22-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:matiaszelarayan87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matiaszelarayan87@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
