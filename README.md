@@ -29,7 +29,7 @@ const thai = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-matiaszelarayan.web.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-matiaszelarayan.web.app-blue?style=flat&logo=google-chrome"></a>
+<a href="https://portfolio-matiaszelarayan.web.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.portfolio-matiaszelarayan.web.app-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/matiaszelarayan22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@matiaszelarayan22-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:matiaszelarayan87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matiaszelarayan87@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
