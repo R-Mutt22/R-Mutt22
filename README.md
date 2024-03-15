@@ -1,8 +1,8 @@
 ### Hi there 
 <div align="center">
 <h1>Hi, I'm Matías, alias R. Mutt 👋🏻</h1><br>
-<h2>Developer, born in 🇦🇷, I'm currently perfecting myself as a Full Stack Java Developer ☕ with Spring Boot 🍃</h2>
 </div>
+<h2>Developer, born in 🇦🇷, I'm currently perfecting myself as a Full Stack Java Developer ☕ with Spring Boot 🍃</h2>
 
 <p><em>Software technician at <a href="https://unnoba.edu.ar/">UNNOBA</a></br>Freelance developer </em></p>
 
