@@ -24,7 +24,7 @@ const thai = {
 ```
 <em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
 
-<h3 aling="center"> 📫 Connect with Me </h3>
+<h3 class: aling="center"> 📫 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/matiaszelarayan22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@matiaszelarayan22-blue?style=flat&logo=linkedin"></a>
