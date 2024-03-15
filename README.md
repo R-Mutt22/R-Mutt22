@@ -1,8 +1,8 @@
 ### Hi there 
 <div align="center">
-  <h1>Hi, I'm Matías, alias R. Mutt 👋🏻</h1><br>
-  <h2>Developer, born in 🇦🇷, I'm currently perfecting myself as a Full Stack Java Developer ☕ with Spring Boot 🍃</h2>
-  </div>
+<h1>Hi, I'm Matías, alias R. Mutt 👋🏻</h1><br>
+<h2>Developer, born in 🇦🇷, I'm currently perfecting myself as a Full Stack Java Developer ☕ with Spring Boot 🍃</h2>
+</div>
 
 <p><em>Software technician at <a href="https://unnoba.edu.ar/">UNNOBA</a></br>Freelance developer </em></p>
 
@@ -24,7 +24,7 @@ const thai = {
 ```
 <em><b>I like connecting with different people</b>so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
 
-<h3 class: aling="center"> 📫 Connect with Me </h3>
+<h3> 📫 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/matiaszelarayan22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@matiaszelarayan22-blue?style=flat&logo=linkedin"></a>
