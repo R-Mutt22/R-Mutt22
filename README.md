@@ -19,7 +19,7 @@ const thai = {
   tools: [Angular, NodeJs, Springboot, Postman, Git - Github, Docker],
   architecture: ["microservices", "Containers", "AWS", "API Rest"],
 
- challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react and typing"
+ challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react, typeScript and Rust"
 }
 ```
 <em><b>I like connecting with different people</b> so if you want to say hello,<b> I'd be happy to meet you!</b></em></br>
