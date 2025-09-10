@@ -15,9 +15,9 @@
 
 ```javascript
 const thai = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Java, Javascript, Typescript, HTML, CSS],
   tools: [Angular, NodeJs, Springboot, Postman, Git - Github, Docker],
-  architecture: ["microservices", "Containers", "AWS", "API Rest"],
+  architecture: ["API Rest", "Containers", "AWS", "microservices"],
 
  challenge: "I'm doing the #HeavyDutyCamp focused on DApp creation with the Solana network, react, typeScript and Rust"
 }
